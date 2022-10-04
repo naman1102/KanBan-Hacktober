@@ -120,8 +120,9 @@ Here is my `hello_world` example: [hello_world_namanmehta.js](https://github.com
 
 ## Main Project
 
-
-
+### Flutter Project(KanBan Board) For Educational Purpose only. 
+- A app where you can manage your tasks according to agile methodologies.
+- A app that allow us to create notes like notion, tasks like jira.
 
 ## Our Contributors
 <p align="center"><a href="https://github.com/naman1102/KanBan-Hacktober/graphs/contributors">
@@ -131,11 +132,13 @@ Here is my `hello_world` example: [hello_world_namanmehta.js](https://github.com
 ## Rules!
  
 - Check Issues for Hacktober contribution.
-- 
+- Merging All Pull Requests for contributor.md only not included in Hacktober. 
+- PR should be named ` Addresses <Issue_Number> `
+- PR should have proper description.
+- PR should have proper value contribution to the project no PR without value will be included.
 
 ## Bonus!
 
-- Merging All Pull Requests for contributor.md
 - See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
 - Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 - Check out some very creative ways to print out a "Hello, World!" string.
