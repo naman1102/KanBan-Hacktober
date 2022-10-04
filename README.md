@@ -149,7 +149,7 @@ Managing your Forked Repo: [https://help.github.com/articles/fork-a-repo/](https
 
 Syncing a Fork: [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
 
-Keep Your Fork Synced: [https://gist.github.com/naman1102/f9b8943230e7031ae78cdcd1755bef32](https://gist.github.com/naman1102/f9b8943230e7031ae78cdcd1755bef32)
+Keep Your Fork Synced: [https://gist.github.com/naman1102/0852864d0a23ae15cdd77257fe5e9980](https://gist.github.com/naman1102/0852864d0a23ae15cdd77257fe5e9980)
 
 Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
