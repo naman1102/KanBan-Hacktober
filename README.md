@@ -131,7 +131,7 @@ Here is my `hello_world` example: [hello_world_namanmehta.js](https://github.com
 
 ## Rules!
  
-- Check Issues for Hacktober contribution.
+- Check Issues for Hacktober contribution labeled Hacktober-accepted.
 - Merging All Pull Requests for contributor.md only not included in Hacktober. 
 - PR should be named ` Addresses <Issue_Number> `
 - PR should have proper description.
