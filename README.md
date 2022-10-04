@@ -6,7 +6,6 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
-[https://fineanmol.github.io/hacktoberfest/](https://fineanmol.github.io/hacktoberfest/)
 
 ## What is Hacktoberfest?
 
