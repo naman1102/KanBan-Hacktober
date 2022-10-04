@@ -104,8 +104,8 @@ Add a `hello_world_yourusername.xx` script to the `scripts` directory in any lan
 ```Javascript
 // LANGUAGE: Javascript
 // ENV: Node.js
-// AUTHOR: Anmol Agarwal
-// GITHUB: https://github.com/fineanmol
+// AUTHOR: Naman Mehta
+// GITHUB: https://github.com/naman1102
 
 console.log('Hello, World!');
 ```
@@ -116,7 +116,7 @@ Add your scripts to the specific folder for specific languages created.
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial.
 
-Here is my `hello_world` example: [hello_world_anmolagarwal.js](https://github.com/naman1102/KanBan-Hacktober/blob/master/scripts/hello_world_namanmehta.js)
+Here is my `hello_world` example: [hello_world_namanmehta.js](https://github.com/naman1102/KanBan-Hacktober/blob/master/scripts/hello_world_namanmehta.js)
 
 ## Our Contributors
 <p align="center"><a href="https://github.com/naman1102/KanBan-Hacktober/graphs/contributors">
