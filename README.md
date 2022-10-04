@@ -29,7 +29,7 @@ Choose one or all 3, make a pull request for your work and wait for it to be mer
 - Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/fineanmol/hacktoberfest.git
+git clone https://github.com/naman1102/KanBan-Hacktober.git
 ```
 
 - Create a branch
@@ -110,17 +110,17 @@ Add a `hello_world_yourusername.xx` script to the `scripts` directory in any lan
 console.log('Hello, World!');
 ```
 
-Name the file `hello_world_yourusername.xx`. e.g., `hello_world_anmolagarwal.js` or `hello_world_anmolagarwal.py`.
+Name the file `hello_world_yourusername.xx`. e.g., `hello_world_namanmehta.js` or `hello_world_namanmehta.py`.
 
 Add your scripts to the specific folder for specific languages created.
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial.
 
-Here is my `hello_world` example: [hello_world_anmolagarwal.js](https://github.com/fineanmol/hacktoberfest/blob/master/scripts/hello_world_anmol_agarwal.js)
+Here is my `hello_world` example: [hello_world_anmolagarwal.js](https://github.com/naman1102/KanBan-Hacktober/blob/master/scripts/hello_world_namanmehta.js)
 
 ## Our Contributors
-<p align="center"><a href="https://github.com/fineanmol/hacktoberfest/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=fineanmol/hacktoberfest" />
+<p align="center"><a href="https://github.com/naman1102/KanBan-Hacktober/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=naman1102/KanBan-Hacktober" />
 </a></p>
 
 ## BONUS!
