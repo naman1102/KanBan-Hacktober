@@ -118,14 +118,24 @@ Don't forget to include the comments as seen above. Feel free to include additio
 
 Here is my `hello_world` example: [hello_world_namanmehta.js](https://github.com/naman1102/KanBan-Hacktober/blob/master/scripts/hello_world_namanmehta.js)
 
+## Main Project
+
+
+
+
 ## Our Contributors
 <p align="center"><a href="https://github.com/naman1102/KanBan-Hacktober/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=naman1102/KanBan-Hacktober" />
 </a></p>
 
-## BONUS!
+## Rules!
+ 
+- Check Issues for Hacktober contribution.
+- 
 
-- Merging All Pull Requests
+## Bonus!
+
+- Merging All Pull Requests for contributor.md
 - See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
 - Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 - Check out some very creative ways to print out a "Hello, World!" string.
@@ -139,7 +149,7 @@ Managing your Forked Repo: [https://help.github.com/articles/fork-a-repo/](https
 
 Syncing a Fork: [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
 
-Keep Your Fork Synced: [https://gist.github.com/fineanmol/f9b8943230e7031ae78cdcd1755bef32](https://gist.github.com/fineanmol/f9b8943230e7031ae78cdcd1755bef32)
+Keep Your Fork Synced: [https://gist.github.com/naman1102/f9b8943230e7031ae78cdcd1755bef32](https://gist.github.com/naman1102/f9b8943230e7031ae78cdcd1755bef32)
 
 Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -148,4 +158,3 @@ Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/
 ## Additional references added by contributors
 
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
-
