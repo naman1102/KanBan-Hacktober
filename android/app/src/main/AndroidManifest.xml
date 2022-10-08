@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.kanban.kanban">
+    package="com.example.login_screen">
    <application
-        android:label="kanban"
+        android:label="login_screen"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

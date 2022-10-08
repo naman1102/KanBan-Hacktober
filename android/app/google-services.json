@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098424728456",
+    "project_id": "pervasif-project",
+    "storage_bucket": "pervasif-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098424728456:android:f9f249a0c19053682c583d",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098424728456-q2o150d86ac4u5ptaoq56rtatrtbkn8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZxQVtJXeRcxbmgwbubJ3cPlezGfZ3WRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098424728456-q2o150d86ac4u5ptaoq56rtatrtbkn8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
