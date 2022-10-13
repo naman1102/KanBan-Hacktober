@@ -15,3 +15,9 @@
 - Place: Korba, Chhattisgarh, India
 - Bio: I'm a Mobile App Developer & an Open-Source Enthusiast
 - GitHub: [KrishChopra22](https://github.com/KrishChopra22)
+
+#### Name: [Alli Aga](https://github.com/AlliAga)
+
+- Place: Margao, Goa, India
+- Bio: I’m a hardcore Moble App Developer. I have worked with Native Android using Java & Swift for iOS Application.
+- GitHub: [AlliAga](https://github.com/AlliAga)
