@@ -27,3 +27,9 @@
 - Place: Indore, MP, India
 - Bio: I am an Inventive Front-End Developer with willingness to learn Flutter development.
 - GitHub: [Babita Majumdar](https://github.com/m-babita/)
+
+#### Name: [Khushi Gupta](https://github.com/khushi5102)
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: I am a computer science student.
+- GitHub: [khushi5102](https://github.com/khushi5102)
