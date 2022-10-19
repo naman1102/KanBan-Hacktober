@@ -21,7 +21,19 @@
 - Place: Margao, Goa, India
 - Bio: I’m a hardcore Moble App Developer. I have worked with Native Android using Java & Swift for iOS Application.
 - GitHub: [AlliAga](https://github.com/AlliAga)
-- 
+
+#### Name: [Babita Majumdar](https://m-babita.github.io/)
+
+- Place: Indore, MP, India
+- Bio: I am an Inventive Front-End Developer with willingness to learn Flutter development.
+- GitHub: [Babita Majumdar](https://github.com/m-babita/)
+
+#### Name: [Khushi Gupta](https://github.com/khushi5102)
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: I am a computer science student.
+- GitHub: [khushi5102](https://github.com/khushi5102)
+
 #### Name: [Jaya Sharma](https://github.com/jsharma0311)
 
 - Place: Indore, Madhya Pradesh, India
