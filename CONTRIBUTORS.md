@@ -33,3 +33,9 @@
 - Place: Indore, Madhya Pradesh, India
 - Bio: I am a computer science student.
 - GitHub: [khushi5102](https://github.com/khushi5102)
+
+#### Name: [Jaya Sharma](https://github.com/jsharma0311)
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: Currently I am a student pursuing b.tech. in computer science engineering.
+- GitHub: [jsharma0311](https://github.com/jsharma0311)
