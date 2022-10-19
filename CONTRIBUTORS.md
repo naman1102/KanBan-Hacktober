@@ -21,3 +21,9 @@
 - Place: Margao, Goa, India
 - Bio: I’m a hardcore Moble App Developer. I have worked with Native Android using Java & Swift for iOS Application.
 - GitHub: [AlliAga](https://github.com/AlliAga)
+- 
+#### Name: [Jaya Sharma](https://github.com/jsharma0311)
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: Currently I am a student pursuing b.tech. in computer science engineering.
+- GitHub: [jsharma0311](https://github.com/jsharma0311)
