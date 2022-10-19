@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:ionicons/ionicons.dart';
+import 'package:login_screen/config/AppTheme.dart';
 import 'package:login_screen/utils/helper_functions.dart';
 
-import '../../../utils/constants.dart';
 import '../animations/change_screen_animation.dart';
 import 'bottom_text.dart';
 import 'top_text.dart';
@@ -60,7 +60,7 @@ class _LoginContentState extends State<LoginContent>
         style: ElevatedButton.styleFrom(
           padding: const EdgeInsets.symmetric(vertical: 14),
           shape: const StadiumBorder(),
-          primary: kSecondaryColor,
+          backgroundColor: AppThemes.secondarySwatch,
           elevation: 8,
           shadowColor: Colors.black87,
         ),
@@ -83,7 +83,7 @@ class _LoginContentState extends State<LoginContent>
           Flexible(
             child: Container(
               height: 1,
-              color: kPrimaryColor,
+              color: AppThemes.primarySwatch,
             ),
           ),
           const Padding(
@@ -99,7 +99,7 @@ class _LoginContentState extends State<LoginContent>
           Flexible(
             child: Container(
               height: 1,
-              color: kPrimaryColor,
+              color: AppThemes.primarySwatch,
             ),
           ),
         ],
@@ -131,7 +131,7 @@ class _LoginContentState extends State<LoginContent>
           style: TextStyle(
             fontSize: 16,
             fontWeight: FontWeight.w600,
-            color: kSecondaryColor,
+            color: AppThemes.secondarySwatch,
           ),
         ),
       ),
