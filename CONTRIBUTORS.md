@@ -21,3 +21,9 @@
 - Place: Margao, Goa, India
 - Bio: I’m a hardcore Moble App Developer. I have worked with Native Android using Java & Swift for iOS Application.
 - GitHub: [AlliAga](https://github.com/AlliAga)
+
+#### Name: [Khushi Gupta](https://github.com/khushi5102)
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: I am a computer science student.
+- GitHub: [khushi5102](https://github.com/khushi5102)
