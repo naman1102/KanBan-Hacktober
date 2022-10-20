@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:login_screen/config/AppTheme.dart';
 import 'package:login_screen/screens/login_screen/animations/change_screen_animation.dart';
 import 'package:login_screen/utils/helper_functions.dart';
 
-import '../../../utils/constants.dart';
 import 'login_content.dart';
 
 class BottomText extends StatefulWidget {
@@ -55,7 +55,7 @@ class _BottomTextState extends State<BottomText> {
                       ? 'Already have an account? '
                       : 'Don\'t have an account? ',
                   style: const TextStyle(
-                    color: kPrimaryColor,
+                    color: AppThemes.primarySwatch,
                     fontWeight: FontWeight.w600,
                   ),
                 ),
@@ -65,7 +65,7 @@ class _BottomTextState extends State<BottomText> {
                       ? 'Log In'
                       : 'Sign Up',
                   style: const TextStyle(
-                    color: kSecondaryColor,
+                    color: AppThemes.secondarySwatch,
                     fontWeight: FontWeight.bold,
                   ),
                 ),

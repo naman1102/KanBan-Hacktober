@@ -1,10 +1,10 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:login_screen/config/AppTheme.dart';
 import 'package:login_screen/controller/auth_controller.dart';
 
 import 'screens/login_screen/login_screen.dart';
-import 'utils/constants.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -19,15 +19,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Login App',
+      title: 'KanBan App',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        scaffoldBackgroundColor: kBackgroundColor,
-        textTheme: Theme.of(context).textTheme.apply(
-              bodyColor: kPrimaryColor,
-              fontFamily: 'Montserrat',
-            ),
-      ),
+      theme: AppThemes.lightTheme,
       home: const LoginScreen(),
     );
   }
