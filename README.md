@@ -123,20 +123,15 @@ Here is my `hello_world` example: [hello_world_namanmehta.js](https://github.com
 ### Flutter Project(KanBan Board) For Educational Purpose only. 
 - First of all, Kanban board is an agile and acrobatic project management tool which is designed to help in visualising work, and maximizing efficiency or flow of project.
 - Now you have to create an app which can do various functions and contains different methodologies.
-- Basic elements and functions of Kanban which needs to be in the app:
-  - __Visual Cards__: This functions like a sticky notes which can be of different aesthetic colours.
-  - __Columns__: Columns in kanban board helps us to arrange different topics and tasks from each other.
-  - __Work in progress limits__: Work in progress limits are the maximum number of cards that can be in one column at any given time.
-  - __Commitment point__: Kanban board also contains a place for teams working on a projects where different tasks can be defined and any team member can start doing any task by selecting it and commiting it.
-  - __Delivery Point__: The point in the workflow where work items are considered finished.
-- Advantages of using kanban board:
-  - Increase productivity.
-  - More flexibility.
-  - Reduce wastage of time.
-  - Increase efficiency.
-  - Organized work.
-  - Teams can work together.
-  - Increases focus and collaboration on project.
+- For project flow please check out Code_flow.md file which contains information about the what all functions we need to have in our board.
+#### Advantages of using kanban board:
+- Increase productivity.
+- More flexibility.
+- Reduce wastage of time.
+- Increase efficiency.
+- Organized work.
+- Teams can work together.
+- Increases focus and collaboration on project.
 
 ## Our Contributors
 <p align="center"><a href="https://github.com/naman1102/KanBan-Hacktober/graphs/contributors">
