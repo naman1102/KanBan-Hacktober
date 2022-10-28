@@ -39,3 +39,9 @@
 - Place: Indore, Madhya Pradesh, India
 - Bio: Currently I am a student pursuing b.tech. in computer science engineering.
 - GitHub: [jsharma0311](https://github.com/jsharma0311)
+
+#### Name: [Sudipta Chowdhury](https://github.com/SudiptaAChy)
+
+- Place: Chittagong, Bangladesh
+- Bio: Current a student from CUET persuing B.Sc in Computer Science & Engineering.
+- GitHub: [SudiptaAChy](https://github.com/SudiptaAChy)
